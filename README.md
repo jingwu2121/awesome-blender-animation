@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=KcsRfb1_O3w&list=PLF14sjBxX75-ebkYws7T8Wb38qh4DI
 
 ## Youtube Channels
 
-## Inspirations
+## Twitter/IG Inspirations
+### Twitter
+- [@Pei_Maximilian](https://x.com/Pei_Maximilian): Blender 3D Artist (2D animation, Japanese style, Grease pencil) [Web](https://t.co/TvHwcI5TMG)
 
 ## Pixel-Art
