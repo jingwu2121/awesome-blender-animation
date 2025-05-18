@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=KcsRfb1_O3w&list=PLF14sjBxX75-ebkYws7T8Wb38qh4DI
 
 ## 📑 Tutorials
 - Get yourself familiar with Blender (Beginner):
-    - [7-Day Introduction]([https://www.youtube.com/watch?v=At9qW8ivJ4Q&t=15s](https://www.youtube.com/watch?v=e-fetDXDXX8&list=PLgO2ChD7acqH5S3fCO1GbAJC55NeVaCCp)) [CrossMind Studio]: Compatible with Blender 4.3
+    - [7-Day Introduction](https://www.youtube.com/watch?v=e-fetDXDXX8&list=PLgO2ChD7acqH5S3fCO1GbAJC55NeVaCCp) [CrossMind Studio]: Compatible with Blender 4.3
     - 🍩 [Donut Tutorial (Updated)](https://www.youtube.com/watch?v=4haAdmHqGOw&t=10278s) [Blender Guru]: The famous Blender donut tutorial by Blender Guru. 
 
 ### 😆 Free
