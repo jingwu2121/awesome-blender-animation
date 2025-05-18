@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=KcsRfb1_O3w&list=PLF14sjBxX75-ebkYws7T8Wb38qh4DI
 
 ### Paid
 - [Retro Art](https://www.skillshare.com/en/classes/create-a-retro-anime-character-illustration-with-blender-3d/1080603726?via=search-layout-grid): Create an old japanese retro anime character
+- [2.5D Animation](https://www.patataschool.com/25d-illustration-in-grease-pencil): Grease Pencil 2.5D Animation
 
 ## Blender Addons
 
