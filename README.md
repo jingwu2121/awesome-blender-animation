@@ -37,6 +37,7 @@ YouTube channels about grease pencil, LoFi animation:
 - [@SillyPotato](https://www.youtube.com/@SillyPotato)
 - [@bitulu](https://www.youtube.com/@bitulu)
 - [@PLASTIEK](https://www.youtube.com/@PLASTIEK)
+- [@KristofDedene](https://www.youtube.com/@KristofDedene)
 
 ## 💡 Twitter/IG Inspirations
 - [@Pei_Maximilian](https://x.com/Pei_Maximilian): Blender 3D Artist (2D animation, Japanese style, Grease pencil) [Web](https://t.co/TvHwcI5TMG)
