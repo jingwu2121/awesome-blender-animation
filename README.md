@@ -14,8 +14,8 @@ https://www.youtube.com/watch?v=KcsRfb1_O3w&list=PLF14sjBxX75-ebkYws7T8Wb38qh4DI
 - Get yourself familiar with Blender (Beginner):
     - [7-Day Introduction](https://www.youtube.com/watch?v=e-fetDXDXX8&list=PLgO2ChD7acqH5S3fCO1GbAJC55NeVaCCp) [CrossMind Studio]: Compatible with Blender 4.3
     - 🍩 [Donut Tutorial (Updated)](https://www.youtube.com/watch?v=4haAdmHqGOw&t=10278s) [Blender Guru]: The famous Blender donut tutorial by Blender Guru. 
-
-### 😆 Free
+- 😆 Cool anime style projects
+    - [Underwater Scene](https://www.youtube.com/watch?v=KcsRfb1_O3w): A concise and cool swimming pool rendering within 3 minutes.  
 
 ### 💸 Paid
 - [Retro Art](https://www.skillshare.com/en/classes/create-a-retro-anime-character-illustration-with-blender-3d/1080603726?via=search-layout-grid) [Harry Helps]: Create an old Japanese retro anime character
