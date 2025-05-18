@@ -1,6 +1,8 @@
 # Awesome Blender Animation
 Grease Pencil enables us to make 2D rendering from 3D models, and more and more artists are using Blender to create 2D animation right now! However, the resources for this specific area are limited, so I have made this collection of different resources of anime-style 2D rendering, containing multiple styles (Grease Pencil, 2.5D, Retro, Vaporwave, LoFi, etc.). 
 
+This is an ongoing project, and welcome contributions!! 😉
+
 ## 🗺️ Tutorials
 - Get yourself familiar with Blender (Beginner):
     - [7-Day Introduction](https://www.youtube.com/watch?v=e-fetDXDXX8&list=PLgO2ChD7acqH5S3fCO1GbAJC55NeVaCCp) [CrossMind Studio]: Compatible with Blender 4.3
