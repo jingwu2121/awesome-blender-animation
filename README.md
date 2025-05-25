@@ -20,6 +20,8 @@ This is an ongoing project, and welcome contributions!! 😉
 - [2.5D Animation](https://www.patataschool.com/25d-illustration-in-grease-pencil) [Patata School]: Grease Pencil 2.5D Animation with different drawing styles.
 - [Vaporwave Anime](https://dmdesigns.in/coursesss/retro-anime-style-illustration-in-blender/) [Danish Mir]: Retro Anime Style Animation.  
 
+## Free .blend Projects
+
 ## 📢 Youtube Channels
 YouTube channels about grease pencil, LoFi animation:
 - [@dedouze](https://www.youtube.com/@dedouze)
