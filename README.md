@@ -23,6 +23,7 @@ This is an ongoing project, and welcome contributions!! 😉
 ## Collected Free .blend Projects
 - [Tram Station](https://cloud.blender.org/p/gallery/5e46a80442fa9613e1cd1fca)
 - [Bike Ride](https://www.blender.org/download/demo/greasepencil-bike.blend)
+- [Painted Kettle](https://www.patreon.com/posts/95182168?collection=309891)
 - [3D Sketch Room](https://www.patreon.com/posts/100477368?collection=408966)
 
 ## 📢 Youtube Channels
