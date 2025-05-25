@@ -20,10 +20,14 @@ This is an ongoing project, and welcome contributions!! 😉
 - [2.5D Animation](https://www.patataschool.com/25d-illustration-in-grease-pencil) [Patata School]: Grease Pencil 2.5D Animation with different drawing styles.
 - [Vaporwave Anime](https://dmdesigns.in/coursesss/retro-anime-style-illustration-in-blender/) [Danish Mir]: Retro Anime Style Animation.  
 
-## Free .blend Projects
+## Collected Free .blend Projects
+- [Tram Station](https://cloud.blender.org/p/gallery/5e46a80442fa9613e1cd1fca)
+- [Bike Ride](https://www.blender.org/download/demo/greasepencil-bike.blend)
+- [3D Sketch Room](https://www.patreon.com/posts/100477368?collection=408966)
 
 ## 📢 Youtube Channels
 YouTube channels about grease pencil, LoFi animation:
+- [@tawansunflower](https://www.youtube.com/@tawansunflower)
 - [@dedouze](https://www.youtube.com/@dedouze)
 - [@mizukukun](https://www.youtube.com/@mizukukun)
 - [@crzyzhaa](https://www.youtube.com/@crzyzhaa)
